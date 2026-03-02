@@ -1,4 +1,4 @@
-### Change made
+### Errors Fixed
 
 #### 
 Fixed package name mismatch: stringCollections -> stringsCollections. 
